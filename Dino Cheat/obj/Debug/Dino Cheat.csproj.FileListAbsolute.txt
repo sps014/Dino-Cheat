@@ -1,0 +1,59 @@
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.exe.config
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.exe
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.pdb
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csprojAssemblyReference.cache
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino_Cheat.Form1.resources
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino_Cheat.Properties.Resources.resources
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csproj.GenerateResource.cache
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csproj.CoreCompileInputs.cache
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.exe
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.pdb
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Controls.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Fuzzy.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Genetic.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Imaging.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.MachineLearning.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Math.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Neuro.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.VFW.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\bin\Debug\AForge.Vision.xml
+C:\Users\shive\source\repos\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csproj.CopyComplete
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.exe.config
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.exe
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\Dino Cheat.pdb
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Controls.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Fuzzy.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Genetic.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Imaging.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Imaging.Formats.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.MachineLearning.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Math.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Neuro.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.Lego.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.Surveyor.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Robotics.TeRK.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.DirectShow.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.FFMPEG.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.Kinect.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.VFW.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Video.Ximea.xml
+F:\Projects\Dino Cheat\Dino Cheat\bin\Debug\AForge.Vision.xml
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csprojAssemblyReference.cache
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino_Cheat.Form1.resources
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino_Cheat.Properties.Resources.resources
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csproj.GenerateResource.cache
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.csproj.CopyComplete
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.exe
+F:\Projects\Dino Cheat\Dino Cheat\obj\Debug\Dino Cheat.pdb
